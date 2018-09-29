@@ -20,8 +20,8 @@ docker images
 
 * This should give an output similar to :
 	
-	REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
-	user-app            latest              dce4a1118dc5        2 hours ago         678MB
+	REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE   
+        user-app            latest              dce4a1118dc5        2 hours ago         678MB
 
 ## Create and run a docker container 
 
@@ -63,6 +63,6 @@ docker exec -it user-crud-app bash
 
 References
 ==========
-https://github.com/fabric8io/docker-maven-plugin
+https://github.com/fabric8io/docker-maven-plugin 
 https://www.youtube.com/watch?v=pqux6HO613M
 
