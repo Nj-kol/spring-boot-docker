@@ -21,7 +21,8 @@ docker images
 * This should give an output similar to :
 	
 	REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE   
-        user-app            latest              dce4a1118dc5        2 hours ago         678MB
+    
+    user-app            latest              dce4a1118dc5        2 hours ago         678MB
 
 ## Create and run a docker container 
 
