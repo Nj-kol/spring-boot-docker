@@ -7,11 +7,13 @@
 ## Build Docker image
 
 mvn install
+
 mvn docker:build
 
 ## Recreate docker image 
 
 mvn clean install
+
 mvn docker:build
 
 ## See the docker image
