@@ -63,6 +63,7 @@ docker exec -it user-crud-app bash
 
 References
 ==========
-https://github.com/fabric8io/docker-maven-plugin 
+https://github.com/fabric8io/docker-maven-plugin    
+
 https://www.youtube.com/watch?v=pqux6HO613M
 
